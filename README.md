@@ -12,6 +12,4 @@
 * Add more cities to the map. 
 * Display TOA ( Time of Arrival) and TOD (Time of Departure) of flights. 
 ## Links
-[E-mail](singhgperry01@gmail.com)
-
 [LinkedIn](https://www.linkedin.com/in/singhperry01/)
