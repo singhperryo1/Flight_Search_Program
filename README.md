@@ -1,6 +1,6 @@
-# **FLIGHT SEARCH USER PROGRAM** 
+# **FLIGHT SEARCH PROGRAM** 
 
-*  Flight search user program determines wheather there is a flgiht or sequences of flights between two given cities in the map.
+*  Flight search program determines wheather there is a flgiht or sequences of flights between two given cities in the map.
 * The program is developed using Object Oriented Programming Language C++. 
 
 ## Prerequisites 
