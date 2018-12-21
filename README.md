@@ -4,7 +4,7 @@
 * The program is developed using Object Oriented Programming Language C++. 
 
 ## Prerequisites 
-* IDE (Integerated Development Environment) that support C++. 
+* IDE (Integrated Development Environment) that support C++. 
 ## Tech 
 * C++ . 
 ## Future Enhancements 
